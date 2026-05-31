@@ -44,6 +44,10 @@ print('Country: ',  country)
 print('Married: ', is_married)
 
 
+# geting an input from an user
+
+first_name = str(input("enter your first name:=> "))
+print('your first name: ', first_name)
 
 
 
