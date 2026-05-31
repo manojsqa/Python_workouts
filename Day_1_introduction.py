@@ -20,11 +20,12 @@ print(1%30) # modulus (%)
 
 # Checking Data_Types
 
-print(type(89677))             # int / Integer
-print(type("hello world!"))    # str / string
-print(type(3.142))             # float
-print(6+5j)                    # complex
-print(type("MaNa")             # str / string
-print(type([1,2,3,4,5,6,7,8,9,19]))  # list
-print(type({1,2,3,4,5,6,7,8,9})) 
-
+print(type(89677))             			# int / Integer
+print(type("hello world!"))    			# str / string
+print(type(3.142))            	 		# float
+print(6+5j)                    			# complex
+print(type("MaNa")             			# str / string
+print(type([1,2,3,4,5,6,7,8,9,19])) 	# List
+print(type({1,2,3,4,5,6,7,8,9})) 		# Set
+print(type({"name": 'Mana'})) 			# Dictionary
+print(type((1,2,3,4,5,6,7,8,9)))		# Tuples
