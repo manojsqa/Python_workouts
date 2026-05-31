@@ -50,6 +50,8 @@ first_name = str(input("enter your first name:=> "))
 print('your first name: ', first_name)
 
 """
+Assignments on Variables and Data Types
+
 Exercises: Level 1
 Inside 30DaysOfPython create a folder called day_2. Inside this folder create a file named variables.py
 Write a python comment saying 'Day 2: 30 Days of python programming'
