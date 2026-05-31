@@ -33,7 +33,7 @@ print('person_information: ', person_info)
 first_name, last_Name, age, city, state, country, is_married = 'Manoj', 'Kumar', 30, 'Bengaluru', 'Karnataka', 'India', 'True' 
 
 print('first name: ', first_name) 
-print('length_of_first_name: ' , len(fist_name))
+print('length_of_first_name: ' , len(first_name))
 
 print('last_name: ', last_Name)
 print('length_of_last_name: ' , len(last_Name))
