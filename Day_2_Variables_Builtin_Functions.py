@@ -52,7 +52,7 @@ print('your first name: ', first_name)
 """
 Assignments on Variables and Data Types
 
-Exercises: Level 1
+###### Exercises: Level 1
 
 1. Inside 30DaysOfPython create a folder called day_2. Inside this folder create a file named variables.py
 2. Write a python comment saying 'Day 2: 30 Days of python programming'
@@ -69,7 +69,8 @@ Exercises: Level 1
 13. Declare multiple variable on one line
 
 
-Exercises: Level 2
+###### Exercises: Level 2
+
 1. Check the data type of all your variables using type() built-in function
 2. Using the len() built-in function, find the length of your first name
 3. Compare the length of your first name and your last name
