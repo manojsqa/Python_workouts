@@ -66,18 +66,29 @@ print("b**a: ", exponential_1")
 print("a-b: ", diff)
 print("b-a: ", diff_1)
 
-
-
-
-
-
 # a+ = 7
 # b- = 3.3
-
 print("a")
 print("b")
 
 
+# assign new values to the new variables and use it in the program
+y = 8
+n = 5
+total = y+n
+diff = y-n
+exponential = y**n
+product = y*n
+division = y/n
+remainder = y%n
+
+print("total : ", y+n)
+print("total : ", total)
+print("diff : ", diff)
+print("exponential : ", exponential)
+print("product : ", product)
+print("division : ", division)
+print("remainder : ", remainder)
 
 
 
