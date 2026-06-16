@@ -20,8 +20,8 @@ Assignment operators are used to assign values to variables. Let us take = as an
 
 
 Arithmetic Operators:
-Addition(+): a + b
-Subtraction(-): a - b
+# Addition(+): a + b
+# Subtraction(-): a - b
 Multiplication(*): a * b
 Division(/): a / b
 Modulus(%): a % b
