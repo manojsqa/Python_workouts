@@ -12,7 +12,7 @@ print("Division: ", 7/4)
 
 # division operation with output as a whole number(floating numbers won't appear here)
 
-print("Division: ", 7//4)
+print("Division without the remainder: ", 7//4)
 
 print('Modulus: ", 3%2) #it gives the remainder
 
