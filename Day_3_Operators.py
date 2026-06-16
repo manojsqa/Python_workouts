@@ -31,8 +31,35 @@ print("Floating number, Gravity: ", 9.8)
 print("complex number: ', 1+4j)
 print("multiplying complex number: ', (9+5j) * (4+4j) )
 
+# Declaring the values at the top (Global Variables)
+
+a = 5 # a is a Variable name and 5 is an Integer Datatype
+b = 3 # b is a Variable name and 3 is an Integer Datatype
+
+# Arithmatic Oeration and assigning result to a variable
+print("a")
+print("b")
+
+total = a+b
+multiply = a*b
+Division = a/b
+Modulus = a%b
+Floor_Division = a//b
+exponential = a**b
+exponential_1 = b**a
+diff = a-b
+diff_1 = b-a
+
+a+ = 7
+b+ = 6
+
+print("a")
+print("b")
 
 
+
+
+print("total")
 
 
 
