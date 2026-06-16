@@ -34,9 +34,11 @@ print("multiplying complex number: ', (9+5j) * (4+4j) )
 # Declaring the values at the top (Global Variables)
 
 a = 5 # a is a Variable name and 5 is an Integer Datatype
-b = 3 # b is a Variable name and 3 is an Integer Datatype
+b = 7 # b is a Variable name and 3 is an Integer Datatype
 
 # Arithmatic Oeration and assigning result to a variable
+print(a)
+print(b)
 print("a")
 print("b")
 
@@ -50,8 +52,27 @@ exponential_1 = b**a
 diff = a-b
 diff_1 = b-a
 
-a+ = 7
-b+ = 6
+# there are somne inbuilt functions to perform addition(total), substraction(diff)
+
+
+print(total)
+print("a+b: ", total)
+print('a*b: ', multiply)
+print('a/b: ', Division)
+print("a%b: ", Modulus)
+print('a//b: ', Floor_Division)
+print("a**b: ", exponential)
+print("b**a: ", exponential_1")
+print("a-b: ", diff)
+print("b-a: ", diff_1)
+
+
+
+
+
+
+# a+ = 7
+# b- = 3.3
 
 print("a")
 print("b")
@@ -59,7 +80,6 @@ print("b")
 
 
 
-print("total")
 
 
 
