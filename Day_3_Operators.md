@@ -1,4 +1,12 @@
 
+Day_3
+
+Boolean 
+
+A boolean dattypes represents only "True" and "False" values. here first letter T and F should be capital in Python.
+
+print(True)
+print(False)
 
 
 
